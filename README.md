@@ -5,5 +5,12 @@ and sometimes file converters!
 
 
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=reter695)](https://github.com/anuraghazra/github-readme-stats)
+
  
+![--unc0ver's GitHub followers](https://img.shields.io/github/followers/reter695?style=social) ![unc0ver's profile views](https://komarev.com/ghpvc/?username=explosion-scratch)
+
+
+
+## My stats:
+![stats](https://github-readme-stats.vercel.app/api?username=reter695&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=1801)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reter695&theme=prussian&layout=compact)](explosion.cf)
