@@ -14,3 +14,5 @@ and sometimes file converters!
 ## My stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=reter695&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=1801)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reter695&theme=prussian&layout=compact)](explosion.cf)
+
+   ![ReadMe Card](https://cdn2.scratch.mit.edu/get_image/user/59316863_32x32.png)
