@@ -8,7 +8,7 @@ and sometimes file converters!
 
  
 ![--unc0ver's GitHub followers](https://img.shields.io/github/followers/reter695?style=social) ![unc0ver's profile views](https://komarev.com/ghpvc/?username=explosion-scratch)
-
+![stats](https://https://reter695.github.io/tutorials/home)
 
 
 ## My stats:
