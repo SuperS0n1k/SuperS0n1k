@@ -1,3 +1,4 @@
+[![GitHub metrics](https://github.com/micahlt/micahlt/blob/master/github-metrics.svg)](https://micahlindley.com)
 ### Hi there
 i'm reter695! i'm a JS coder so i can make cool things including...(if you're a gamer)...minecraft mods!
 and sometimes file converters!
