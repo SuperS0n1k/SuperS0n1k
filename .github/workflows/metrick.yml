@@ -15,6 +15,6 @@ jobs:
           committer_token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: micahlt
+          user: SuperS0n1k
           template: classic
           base: header, activity
