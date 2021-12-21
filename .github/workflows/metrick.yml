@@ -20,3 +20,27 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_discussions: yes
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, about
