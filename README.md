@@ -1,5 +1,5 @@
 ### Hi there 👋
-An amateur developer (self-taught) and work on many exciting things such as crypto ideas, iOS apps and more!
+I'm a self-taught developer who works on many exciting things such as crypto ideas, iOS apps and more!
 ![Metrics](github-metrics.svg)
 
 My ETH wallet:
