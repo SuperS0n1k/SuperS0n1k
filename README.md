@@ -1,3 +1,3 @@
 ### Hi there 👋
-I'm a self-taught developer who works on many exciting things like iOS apps.
+I'm a self-taught developer who works on stuff that I find cool.
 ![Metrics](github-metrics.svg)
